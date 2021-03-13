@@ -1,5 +1,5 @@
 # NICEUTILS
 
-Ein Utils Plugin, welches Privat ist.
+Ein Utils Plugin
 
 Wird regelmäßig geupdated.
